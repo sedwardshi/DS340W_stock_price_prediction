@@ -3,3 +3,6 @@ Data for 518 individual companies: (https://drive.google.com/file/d/18hStNeiYIZq
   
 Finance report data: https://drive.google.com/file/d/16VFWWiVsPs_IguiAfETELrFYm91l9a57/view?usp=sharing
   
+  
+  
+This GitHub repository is for academic purposes only. The materials uploaded here is for a course project on Applied Data Science.
